@@ -11,6 +11,14 @@ documentation skeleton site for oaks rest api.
    :alt: alternate text
    :align: left
 
+
+Requirements
+------------
+
+It requires bootstrap blocks.
+Copy assets/ and images/ dir in /docsite/static/
+
+
 Installation
 ------------
 
